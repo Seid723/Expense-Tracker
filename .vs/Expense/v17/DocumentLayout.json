@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\migrations\\20260411152109_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\migrations\\20260411152109_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Migrations\\20260411152109_Initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense\\Migrations\\20260411152109_Initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +66,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-12T23:44:43.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Expense\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Expense\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T23:36:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Expense\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Expense\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T21:01:04.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Expense\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Expense\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T20:57:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Expense\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Expense\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:26:03.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Expense\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Expense\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T01:25:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20260411152109_Initial Create.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Migrations\\20260411152109_Initial Create.cs",
               "RelativeDocumentMoniker": "Expense\\Migrations\\20260411152109_Initial Create.cs",
@@ -55,20 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\appsettings.json",
               "RelativeDocumentMoniker": "Expense\\appsettings.json",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\appsettings.json",
               "RelativeToolTip": "Expense\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-11T01:39:20.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Program.cs",
               "RelativeDocumentMoniker": "Expense\\Program.cs",
@@ -81,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\ApplicationDbContext.cs",
@@ -94,20 +196,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\Transaction.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\Transaction.cs",
               "RelativeToolTip": "Expense\\Models\\Transaction.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T01:18:13.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\Category.cs",
