@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,33 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Expense\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Expense\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-04-12T23:44:43.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Expense\\Views\\Category\\Create.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "Expense\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-12T23:36:16.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Expense\\Views\\Shared\\_Layout.cshtml",
@@ -100,8 +100,7 @@
               "RelativeToolTip": "Expense\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-12T21:01:04.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T21:01:04.344Z"
             },
             {
               "$type": "Document",
@@ -113,8 +112,7 @@
               "RelativeToolTip": "Expense\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-12T20:57:50.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T20:57:50.849Z"
             },
             {
               "$type": "Document",
@@ -126,12 +124,11 @@
               "RelativeToolTip": "Expense\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:26:03.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:26:03.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Expense\\Controllers\\CategoryController.cs",
@@ -139,8 +136,7 @@
               "RelativeToolTip": "Expense\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T01:25:13.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T01:25:13.092Z"
             },
             {
               "$type": "Document",
@@ -152,8 +148,7 @@
               "RelativeToolTip": "Expense\\Migrations\\20260411152109_Initial Create.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T15:21:09.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T15:21:09.779Z"
             },
             {
               "$type": "Document",
@@ -165,8 +160,7 @@
               "RelativeToolTip": "Expense\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-11T01:39:20.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T01:39:20.231Z"
             },
             {
               "$type": "Document",
@@ -178,8 +172,7 @@
               "RelativeToolTip": "Expense\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T01:35:50.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T01:35:50.46Z"
             },
             {
               "$type": "Document",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "Expense\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T01:19:48.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T01:19:48.235Z"
             },
             {
               "$type": "Document",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "Expense\\Models\\Transaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T01:18:13.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T01:18:13.617Z"
             },
             {
               "$type": "Document",
@@ -217,8 +208,7 @@
               "RelativeToolTip": "Expense\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T01:17:35.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T01:17:35.389Z"
             }
           ]
         }
