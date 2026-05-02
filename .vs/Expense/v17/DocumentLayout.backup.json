@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|solutionrelative:expense\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E7ED6AE-7978-4882-B228-DB68E4DAFC38}|Expense\\Expense.csproj|c:\\users\\asus\\desktop\\projects\\expense\\expense\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T20:06:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Expense\\wwwroot\\css\\site.css",
@@ -74,25 +91,24 @@
               "RelativeToolTip": "Expense\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-12T23:44:43.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T23:44:43.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Expense\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Expense\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBcAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Expense\\Views\\Category\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeToolTip": "Expense\\Views\\Category\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-12T23:36:16.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Expense\\Views\\Shared\\_Layout.cshtml",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Expense\\Views\\_ViewImports.cshtml",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Expense\\Controllers\\HomeController.cs",
@@ -128,20 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Expense\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Expense\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAIAwwDcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T01:25:13.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20260411152109_Initial Create.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Migrations\\20260411152109_Initial Create.cs",
               "RelativeDocumentMoniker": "Expense\\Migrations\\20260411152109_Initial Create.cs",
@@ -153,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\appsettings.json",
               "RelativeDocumentMoniker": "Expense\\appsettings.json",
@@ -165,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Program.cs",
               "RelativeDocumentMoniker": "Expense\\Program.cs",
@@ -177,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\ApplicationDbContext.cs",
@@ -189,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\Transaction.cs",
@@ -201,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Expense\\Expense\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\Category.cs",
