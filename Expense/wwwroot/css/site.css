@@ -1,50 +1,85 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem black, 0 0 0 0.25rem #258cfb;
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
-  background-color : #12161d;
-  color :#fff
+    margin-bottom: 60px;
+    background-color: #12161d;
+    color: #ffffff;
 }
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus,
+.form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem black, 0 0 0 0.25rem #258cfb;
+}
+
 .e-bigger {
     font-size: x-large;
 }
-.e-btn-group.custom-rbt-group{
+
+.e-btn-group.custom-rbt-group {
     width: 100%;
-
 }
-.e-btn-group.custom-rbt-group .e-btn {
-    width: 50%;
 
-}
+    .e-btn-group.custom-rbt-group .e-btn {
+        width: 50%;
+    }
 
 .custom-rbt-group label.e-btn {
     box-shadow: none !important;
     border: 1px solid #fff;
-    background-color: rgb(34 43 51);
+    background-color: rgb(34, 43, 51);
     color: #fff;
+    padding: 8px 0;
+    font-weight: 500;
+    transition: 0.2s;
 }
 
-.e-btn-group.custom-rbt-group input:checked + label.e-btn{
-   background-color: #fff;
-   color: #212b36;
-   border: 1px solid #fff;
+.e-btn-group.custom-rbt-group input:checked + label.e-btn {
+    background-color: #258cfb !important;
+    color: #fff !important;
+    border: 1px solid #258cfb !important;
 }
 
+.e-input-group,
+.e-control-wrapper {
+    background-color: #1e2630 !important;
+    border: 1px solid #3a3f47 !important;
+    border-radius: 6px;
+}
 
+    .e-input-group input {
+        background-color: transparent !important;
+        color: #ffffff !important;
+    }
+
+.e-input::placeholder {
+    color: #888 !important;
+}
+.e-input-group.e-input-focus {
+    border-color: #258cfb !important;
+    box-shadow: 0 0 0 1px #258cfb;
+}
+
+.e-float-text {
+    color: #aaa !important;
+}
+
+.e-float-input.e-input-focus .e-float-text {
+    color: #258cfb !important;
+}
+
+.mb-3 {
+    margin-bottom: 20px !important;
+}
